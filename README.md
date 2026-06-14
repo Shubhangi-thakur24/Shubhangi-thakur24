@@ -1,10 +1,54 @@
-># Hi, I'm Shubhangi Thakur 👋
-><div align="center"><br><br<br><br><hr><br><br>### 🚀 AI & ML Engineer<br><br>
-### 💡 Building real AI-powered products<br><br>
-<a href="linkedin.com/in/shubhangi-thakur2404">  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /><br></a><a href="https://leetcode.com/u/Shubhangi24-ft/">  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /><br></a><br><br><a href="https://dev.to/shubhangi-thakur24"><br>  <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /><br></a><br><br></div><br><br>---<br><br>##
-># 💫 About Me:
- ⚡ About Me<br><br>🤖 Building intelligent systems with Machine Learning, Generative AI, Computer Vision, and Automation<br><br>🛠 Comfortable across the stack — React, FastAPI, Flask, Firebase, Python, Java, and modern web technologies<br><br>🧠 Hands-on with TensorFlow, PyTorch, OpenCV, Gemini AI, RAG Systems, AI Agents, and LLM Applications<br><br>📐 Focused on scalable architecture, production-ready deployments, and solving real-world problems<br><br>🏆 Hackathon Builder • Open Source Contributor • AI Enthusiast<br><br>🎯 Mission: Build AI products that create meaningful impact for millions of users<br><br>⚡ Learning continuously. Building consistently. Shipping relentlessly.
+<div align="center">
 
+# <h1>Hi, I'm Shubhangi Thakur 👋<h1>
+
+---
+
+### 🧠 AI-Driven Builder
+
+### ✨ Turning ambitious ideas into intelligent products
+
+<br>
+
+<a href="https://linkedin.com/in/shubhangi-thakur2404">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Shubhangi24-ft/">
+  <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://dev.to/shubhangi-thakur24">
+  <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💫 About Me
+
+🔬 Final-year AI & ML student passionate about engineering products that blend intelligence with usability
+
+🚀 Building applications at the intersection of Artificial Intelligence, Automation, and Human-Centered Design
+
+⚙️ Experienced with modern development stacks including React, FastAPI, Flask, Firebase, and cloud-native workflows
+
+🧩 Exploring Large Language Models, RAG Architectures, Computer Vision, AI Agents, and scalable backend systems
+
+🏗️ I enjoy transforming complex ideas into practical tools that people can use every day
+
+🌍 Interested in solving meaningful problems across education, productivity, accessibility, and enterprise automation
+
+🏆 Hackathon Participant • Open Source Explorer • Continuous Learner
+
+🎯 Long-term goal: Design and deploy AI systems that create measurable impact at scale
+
+⚡ Curious enough to learn anything. Determined enough to build it.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/shubhangi-thakur2404) 
