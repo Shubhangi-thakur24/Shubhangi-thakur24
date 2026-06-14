@@ -78,15 +78,10 @@
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Shubhangi-thakur24&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Shubhangi-thakur24/Shubhangi-thakur24/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
