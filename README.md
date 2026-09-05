@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/xTiTnHXbRoaZ1B1Mo8/giphy.gif" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" alt="Animated Universe Header Banner" />
-
-<br><br>
-
 # Hi, I'm Shubhangi Thakur
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DC2626&center=true&vCenter=true&width=600&lines=AI-Driven+Builder;Turning+ideas+into+intelligent+products;Machine+Learning+%26+Generative+AI" alt="Typing SVG" /></a>
@@ -24,12 +20,12 @@
 
 ## About Me
 
-**Education & Honors:**
+* **Education & Honors:**
 * Final-year Computer Science B.Tech student specializing in AI & ML at Jagran Lakecity University, Bhopal (CGPA: 9.44/10)
 * Recipient of the Chancellor’s Scholarship & Marker Cup for academic excellence.
-**Core Focus:** Building scalable, autonomous systems using Generative AI (LLMs, RAG, Multi-Agent Workflows), Machine Learning, Computer Vision, AI Agents and Agentic AI.
-**Open Source & Research:**Contributor at GirlScript Summer of Code (GSSOC 2026) and \presented research at RICCE'2024 (MANIT Bhopal) & RAEMPS'2025 (SIRT Bhopal).
-**Availability:** Seeking a 6-Month Full-Time Internship (January 2027 – June 2027) or Full-Time / New Grad Roles (Graduating 2027) in AI/ML Engineer, Software Engineering or Full-Stack Development.
+* **Core Focus:** Building scalable, autonomous systems using Generative AI (LLMs, RAG, Multi-Agent Workflows), Machine Learning, Computer Vision, AI Agents and Agentic AI.
+* **Open Source & Research:**Contributor at GirlScript Summer of Code (GSSOC 2026) and \presented research at RICCE'2024 (MANIT Bhopal) & RAEMPS'2025 (SIRT Bhopal).
+* **Availability:** Seeking a 6-Month Full-Time Internship (January 2027 – June 2027) or Full-Time / New Grad Roles (Graduating 2027) in AI/ML Engineer, Software Engineering or Full-Stack Development.
 ---
 
 ## Featured Projects
