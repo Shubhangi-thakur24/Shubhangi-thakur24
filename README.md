@@ -20,12 +20,12 @@
 
 ## About Me
 
-* **Education & Honors:**
-* Final-year Computer Science B.Tech student specializing in AI & ML at Jagran Lakecity University, Bhopal (CGPA: 9.44/10)
-* Recipient of the Chancellor’s Scholarship & Marker Cup for academic excellence.
-* **Core Focus:** Building scalable, autonomous systems using Generative AI (LLMs, RAG, Multi-Agent Workflows), Machine Learning, Computer Vision, AI Agents and Agentic AI.
-* **Open Source & Research:**Contributor at GirlScript Summer of Code (GSSOC 2026) and \presented research at RICCE'2024 (MANIT Bhopal) & RAEMPS'2025 (SIRT Bhopal).
-* **Availability:** Seeking a 6-Month Full-Time Internship (January 2027 – June 2027) or Full-Time / New Grad Roles (Graduating 2027) in AI/ML Engineer, Software Engineering or Full-Stack Development.
+**Education & Honors:**
+ * Final-year Computer Science B.Tech student specializing in AI & ML at Jagran Lakecity University, Bhopal (CGPA: 9.44/10)
+ * Recipient of the Chancellor’s Scholarship & Marker Cup for academic excellence.
+**Core Focus:** Building scalable, autonomous systems using Generative AI (LLMs, RAG, Multi-Agent Workflows), Machine Learning, Computer Vision, AI Agents and Agentic AI.
+**Open Source & Research:** Contributor at GirlScript Summer of Code (GSSOC 2026) and \presented research at RICCE'2024 (MANIT Bhopal) & RAEMPS'2025 (SIRT Bhopal).
+**Availability:** Seeking a 6-Month Full-Time Internship (January 2027 – June 2027) or Full-Time / New Grad Roles (Graduating 2027) in AI/ML Engineer, Software Engineering or Full-Stack Development.
 ---
 
 ## Featured Projects
@@ -130,6 +130,12 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Shubhangi-thakur24&label=Profile+Views&color=dc2626&style=for-the-badge"/>
 </p>
+
+---
+## Contact 
+
+Email: shubhangithakur2404@gmail.com
+LinkendIn: https://linkedin.com/in/shubhangi-thakur2404
 
 ---
 
