@@ -1,6 +1,6 @@
 <div align="center">
 
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=84653668204278676" height="714" width="345" frameborder="0" scrolling="no" ></iframe>
+<img src="https://assets.pinterest.com/ext/embed.html?id=84653668204278676" height="714" width="345" frameborder="0" scrolling="no" ></img>
 
 # Hi, I'm Shubhangi Thakur
 
@@ -9,7 +9,7 @@
 <br>
 
 <p align="center">
-  <a href="mailto:shubhangithakur2404@gmail.com"><img src="https://img.shields.io/badge/Email-shubhangithakur2404%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:shubhangithakur2404@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://linkedin.com/in/shubhangi-thakur2404"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/u/Shubhangi24-ft/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
   <a href="https://dev.to/shubhangi-thakur24"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevTo"/></a>
