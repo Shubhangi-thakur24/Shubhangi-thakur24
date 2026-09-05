@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="<img src="https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1200&auto=format&fit=crop" width="100%" height="280px" alt="Profile Banner" style="object-fit: cover; border-radius: 10px;" />
+<img src="https://media.giphy.com/media/xTiTnHXbRoaZ1B1Mo8/giphy.gif" width="100%" height="250" style="object-fit: cover; border-radius: 10px;" alt="Animated Universe Header Banner" />
 
 <br><br>
 
@@ -24,12 +24,12 @@
 
 ## About Me
 
-* **Education:** Final-year Computer Science B.Tech student at Jagran Lakecity University, Bhopal, specializing in AI & ML.
-* **Achievements:** Smart India Hackathon Winner and recipient of the Chancellor’s Scholarship & Marker Cup for academic excellence (CGPA: 9.44/10).
-* **Core Focus:** Building scalable, autonomous systems using Generative AI (LLMs, RAG, Multi-Agent Workflows), Machine Learning, and Computer Vision.
-* **Open Source & Research:** Contributor at GirlScript Summer of Code (GSSOC 2026) and presented research at RICCE 2024 (MANIT Bhopal) & RAEMPS 2025 (SIRT Bhopal).
-* **Goal:** Engineering autonomous AI systems that generate measurable, real-world impact at scale.
-
+**Education & Honors:**
+* Final-year Computer Science B.Tech student specializing in AI & ML at Jagran Lakecity University, Bhopal (CGPA: 9.44/10)
+* Recipient of the Chancellor’s Scholarship & Marker Cup for academic excellence.
+**Core Focus:** Building scalable, autonomous systems using Generative AI (LLMs, RAG, Multi-Agent Workflows), Machine Learning, Computer Vision, AI Agents and Agentic AI.
+**Open Source & Research:**Contributor at GirlScript Summer of Code (GSSOC 2026) and \presented research at RICCE'2024 (MANIT Bhopal) & RAEMPS'2025 (SIRT Bhopal).
+**Availability:** Seeking a 6-Month Full-Time Internship (January 2027 – June 2027) or Full-Time / New Grad Roles (Graduating 2027) in AI/ML Engineer, Software Engineering or Full-Stack Development.
 ---
 
 ## Featured Projects
