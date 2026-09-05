@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmw0enB3eG1qYzR3NXp2Zm1mdjRtZjN4eW1xbzR3eWZ6Njl0Z3p6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100%" height="280px" alt="Cosmic Black Hole Banner" style="object-fit: cover;" />
+<video src="banner.mp4" autoplay loop muted playsinline width="100%"></video>
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/Shubhangi-thakur24/Shubhangi-thakur24/main/avatar-pixel.png" width="150" height="150" alt="Shubhangi Thakur Pixel Avatar" style="border-radius: 50%; border: 2px solid #DC2626;" />
+<img src="avatar.png" width="160" height="160" alt="Shubhangi Thakur Pixel Avatar" style="border-radius: 50%; border: 3px solid #DC2626;" />
 
 # Hi, I'm Shubhangi Thakur
 
@@ -24,6 +24,9 @@
 <a href="https://dev.to/shubhangi-thakur24">
   <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
 </a>
+<a href="https://github.com/Shubhangi-thakur24">
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -31,16 +34,12 @@
 
 ## About Me
 
-I am a final-year B.Tech student in Computer Science and Engineering, specializing in Artificial Intelligence and Machine Learning at Jagran Lakecity University, Bhopal (CGPA: 9.44 / 10.00)[cite: 1]. My core engineering focus centers on building scalable technology that combines intelligence, usability, and real-world impact[cite: 1].
-
-* **Education:** B.Tech in Computer Science and Engineering (Specialization in AI & ML) | Jagran Lakecity University, Bhopal (CGPA: 9.44 / 10.00)[cite: 1]
-* **Technical Focus:** Generative AI (LLMs, RAG, Multi-Agent Systems, AI Agents), Machine Learning, Computer Vision, and Scalable Backend Architectures[cite: 1]
-* **Experience:** Open-Source Contributor at GirlScript Summer of Code (GSSOC 2026)[cite: 1]
-* **Conference Presentations:**
-  * Presented peer-reviewed research at RICCE 2024 (MANIT Bhopal)[cite: 1]
-  * Presented research at RAEMPS 2025 (SIRT Bhopal)[cite: 1]
-* **Achievements & Community:** Maintained 9+ CGPA with Merit Certificate, participated in 8+ hackathons (including Smart India Hackathon)[cite: 1]
-* **Goal:** Engineer AI systems that create measurable impact at scale[cite: 1]
+* 🎓 **Education:** Final-year B.Tech in CSE (Specialization in AI & ML) at Jagran Lakecity University, Bhopal (CGPA: 9.44 / 10.00)[cite: 1].
+* ⚡ **Core Technical Focus:** Generative AI (LLMs, RAG, Multi-Agent Workflows), Machine Learning, Computer Vision & Scalable Backends[cite: 1].
+* 💼 **Open Source:** Contributor at GirlScript Summer of Code (GSSOC 2026)[cite: 1].
+* 📜 **Research:** Presenter at RICCE 2024 (MANIT Bhopal) and RAEMPS 2025 (SIRT Bhopal)[cite: 1].
+* 🏆 **Hackathons & Recognition:** 8+ Hackathons (including Smart India Hackathon) and Merit Academic Certificate Holder[cite: 1].
+* 🎯 **Goal:** Engineering autonomous AI systems that generate measurable impact at scale[cite: 1].
 
 ---
 
@@ -58,7 +57,7 @@ I am a final-year B.Tech student in Computer Science and Engineering, specializi
 
 **Frontend & Mobile Development**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,html,css,js,vite&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,js,vite&perline=10" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -66,12 +65,12 @@ I am a final-year B.Tech student in Computer Science and Engineering, specializi
 
 **Backend Development & Languages**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=py,java,cpp,fastapi,flask,django,nodejs&perline=10" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,fastapi,flask,django,nodejs&perline=10" />
 </p>
 
 **Databases, Cloud & Infrastructure**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase,redis,docker,azure&perline=10" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,firebase,redis,docker,azure&perline=10" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Vector_DBs-000000?style=for-the-badge"/>
@@ -80,7 +79,7 @@ I am a final-year B.Tech student in Computer Science and Engineering, specializi
 
 **AI, Machine Learning & Voice**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=10" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=10" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/RAG-0052CC?style=for-the-badge"/>
@@ -92,7 +91,7 @@ I am a final-year B.Tech student in Computer Science and Engineering, specializi
 
 **Workflow Automation & Developer Tools**
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jupyter&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,jupyter&perline=10" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
@@ -125,7 +124,7 @@ I am a final-year B.Tech student in Computer Science and Engineering, specializi
 
 ---
 
-## Contribution Grid
+## Contribution Grid Animation
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Shubhangi-thakur24/Shubhangi-thakur24/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
@@ -151,10 +150,10 @@ I am a final-year B.Tech student in Computer Science and Engineering, specializi
 
 <div align="center">
 
-### Architecting Autonomous Systems & Scalable AI Solutions
+### Building Autonomous Systems & Scalable AI Solutions
 
-Open for research collaborations, open-source contributions, and engineering opportunities.
+Open for research collaborations, open-source projects, and full-time opportunities.
 
-If you find my repositories valuable, consider dropping a star to support my work.
+If you find my repositories valuable, consider leaving a star to support my work!
 
 </div>
