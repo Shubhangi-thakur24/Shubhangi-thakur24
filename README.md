@@ -1,20 +1,19 @@
 <div align="center">
 
-<img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Header Banner" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmw0enB3eG1qYzR3NXp2Zm1mdjRtZjN4eW1xbzR3eWZ6Njl0Z3p6YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100%" height="280px" alt="Cosmic Black Hole Banner" style="object-fit: cover;" />
 
 <br><br>
 
+<img src="https://raw.githubusercontent.com/Shubhangi-thakur24/Shubhangi-thakur24/main/avatar-pixel.png" width="150" height="150" alt="Shubhangi Thakur Pixel Avatar" style="border-radius: 50%; border: 2px solid #DC2626;" />
+
 # Hi, I'm Shubhangi Thakur
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=AI-Driven+Builder;Turning+ideas+into+intelligent+products;Machine+Learning+%26+Generative+AI" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=DC2626&center=true&vCenter=true&width=600&lines=AI-Driven+Builder;Turning+ideas+into+intelligent+products;Machine+Learning+%26+Generative+AI" alt="Typing SVG" /></a>
 
 <br>
 
 <a href="mailto:shubhangithakur2404@gmail.com">
   <img src="https://img.shields.io/badge/Email-shubhangithakur2404%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="tel:+918878240386">
-  <img src="https://img.shields.io/badge/Phone-+91%208878240386-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/shubhangi-thakur2404">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -121,12 +120,12 @@ I am a final-year B.Tech student in Computer Science and Engineering, specializi
 ## Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhangi-thakur24&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhangi-thakur24&theme=github-compact&hide_border=true&area=true"/>
 </p>
 
 ---
 
-## Contribution Timeline
+## Contribution Grid
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Shubhangi-thakur24/Shubhangi-thakur24/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
@@ -145,15 +144,17 @@ I am a final-year B.Tech student in Computer Science and Engineering, specializi
 ## Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Shubhangi-thakur24&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Shubhangi-thakur24&label=Profile+Views&color=dc2626&style=for-the-badge"/>
 </p>
 
 ---
 
 <div align="center">
 
-### Building intelligent systems, scalable products, and impactful solutions
+### Architecting Autonomous Systems & Scalable AI Solutions
 
-If you like my work, consider starring my repositories!
+Open for research collaborations, open-source contributions, and engineering opportunities.
+
+If you find my repositories valuable, consider dropping a star to support my work.
 
 </div>
