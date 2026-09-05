@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://assets.pinterest.com/ext/embed.html?id=84653668204278676" height="714" width="345" frameborder="0" scrolling="no" ></img>
+<img src="https://assets.pinterest.com/ext/embed.html?id=84653668204278676" width="100%" height="280px" alt="Profile Banner" style="object-fit: cover; border-radius: 10px;" />
+
+<br><br>
 
 # Hi, I'm Shubhangi Thakur
 
