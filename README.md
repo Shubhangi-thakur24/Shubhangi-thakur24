@@ -134,7 +134,8 @@
 ---
 ## Contact 
 
-Email: shubhangithakur2404@gmail.com
+Email: shubhangithakur2404@gmail.com 
+<br>
 LinkendIn: https://linkedin.com/in/shubhangi-thakur2404
 
 ---
